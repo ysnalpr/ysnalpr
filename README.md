@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasin Alipour
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning
-- 📫 How to reach me: [Telegram](https://t.me/YAsiNALipouR), [Instagram](https://www.instagram.com/yasin.alipour_/) 
+- 📫 How to reach me: [Telegram](https://t.me/YAsiNALipouR)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
